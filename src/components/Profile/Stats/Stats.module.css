@@ -1,0 +1,26 @@
+.stats {
+  display: inline-flex;
+  border-top: 1px solid #999;
+  padding: 0;
+  margin-top: 20px;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.stats li {
+  text-align: center;
+  background-color: #bbb;
+  width: 33.3%;
+  color: #000;
+  border-left: 1px solid #999;
+  border-right: 1px solid #999;
+  padding: 10px 0;
+}
+
+.stats li span {
+  display: block;
+}
+
+.span-stat {
+  font-weight: bold;
+}

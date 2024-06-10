@@ -1,0 +1,18 @@
+.historyTable {
+  border: 1px solid #000;
+}
+
+.historyTable th,
+.historyTable td {
+  border: 1px solid #000;
+}
+
+.historyTable th {
+  background-color: #333;
+  width: 100px;
+  color: #fff;
+}
+
+.historyTable tr:nth-child(even) {
+  background-color: #aaa;
+}
